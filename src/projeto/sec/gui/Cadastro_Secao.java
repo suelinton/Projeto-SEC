@@ -9,6 +9,7 @@ package projeto.sec.gui;
 import javax.swing.JOptionPane;
 import projeto.sec.model.Secao;
 import projeto.sec.model.Urna;
+import projeto.sec.persistencia.Secao_Persistencia;
 import projeto.sec.persistencia.Urna_Persistencia;
 
 /**
